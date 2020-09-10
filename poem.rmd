@@ -25,7 +25,6 @@ you, if you change any of this the git program will notice it and compromise you
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
 
-
 They know that she always does her best.    
     
 A virtuous woman does all that she can,    
@@ -42,4 +41,7 @@ A lady of class and elegance too,
 She will let you know what you will need to do,         
 To come up to her standard, which is very high.      
 For she is headed for her home in the sky.  
+
+
+
 
